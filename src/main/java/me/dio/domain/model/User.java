@@ -66,9 +66,9 @@ public class User {
         this.features = features;
     }
 
-    public List<News> getNes() {return news;}
+    public List<News> getNews() {return news;}
 
-    public void setNes(List<News> nes) {
+    public void setNews(List<News> nes) {
         this.news = nes;
     }
 
